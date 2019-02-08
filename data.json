@@ -1,0 +1,47 @@
+{
+	"index": [{
+			"image": "pro1.jpg",
+			"name": "navya",
+			"occ": "APSSDC",
+			"profile": "profile"
+		},
+		{
+			"image": "pro2.jpg",
+			"name": "SAI",
+			"occ": "APSSDC",
+			"profile": "profile"
+		}
+	],
+	"PersonalDetails": {
+    "image": "pro2.jpg",
+		"myname": "Navyasai",
+		"designation": "btech",
+		"fathername": "Nageswara rao",
+		"phoneno": "9010783662",
+		"gmail": "g.n.r9067@gmail.com",
+		"address": "Ongole"
+
+	},
+	"careerobject": {
+		"obj": "Career Objective",
+		"co": "to secure a challenging position ina reputable organisation to expand my learnings"
+	},
+	"education": [{
+			"qualification": "b.tech",
+			"inst": "bachelor of technology,Qis college o0f engineering and technology, ongole, secured 80%"
+		},
+		{
+			"qualifications": "Intermediate",
+			"inst": "passed out from sri chaitanya junior college"
+		}
+	],
+	"technicalskills": [{
+			"name": "os",
+			"org": "windows,linux"
+		},
+		{
+			"name": "languagews",
+			"org": "c++,java,c language"
+		}
+	]
+}
